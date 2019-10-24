@@ -1,0 +1,18 @@
+
+  body{   background-color:#7ecfc0;}
+  h1{text-decoration: overline;text-decoration-style: double wavy;color:white;
+  text-shadow:2px 2px 0px green
+ }
+
+  h2{text-decoration: overline underline; text-shadow: 1px 1px 0px green, 0 0 1em purple, 0 0 0.2em green;text-decoration-style:dashed; color:#61234e;}
+  h3{text-decoration: overline underline; text-decoration-style: dotted ;
+    text-shadow: 1px 1px 1px green; color:#843b62;}
+p{color:#930077; text-shadow: 1px 1px 0px green;}
+  hr{background-color: inherit;
+     border-style: none;
+     border-top-style: dotted;
+     border-width: thick;
+
+     height: 1px;
+       width: 20%;
+     }
